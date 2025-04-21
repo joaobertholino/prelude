@@ -5,13 +5,14 @@ recentf
 savehist
 saveplace
 eshell
-elpa
+elpa/*
+!/elpa/zenburn-theme-20240926.619/
+!/elpa/zenburn-theme-20240926.619/**
 el-get
 semanticdb
 url
 ede-projects.el
 .DS_Store
-custom.el
 places
 .smex-items
 savefile/
